@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AboofazlNajmaddini](https://github.com/AboofazlNajmaddini)
 
-- 💬 Ask me about **Java , Python , some image Prosessing**
+- 💬 Ask me about **Java and Python**
 
 - 📫 How to reach me **Aboofazl.najmaddini1@gmail.com**
 
@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/aboofazlnajm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aboofazlnajm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aboofazl-najmaddini-647457364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aboofazl-najmaddini-647457364" height="30" width="40" /></a>
-<a href="https://instagram.com/aboofazl.najmaddini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aboofazl.najmaddini" height="30" width="40" /></a>
+<a href="https://instagram.com/aboofazel.najmaddini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aboofazl.najmaddini" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
