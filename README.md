@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aboofazl</h1>
 <h3 align="center">Just a CS Student from IRAN</h3>
 
+<img align="right" alt="MeRlIn" width= "400" src = "https://blog.sciencemuseum.org.uk/wp-content/uploads/2017/10/Pacman.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboofazlnajmaddini&label=Profile%20views&color=0e75b6&style=flat" alt="aboofazlnajmaddini" /> </p>
 
 - 🌱 I’m currently learning **2D Game dev with Unity**
