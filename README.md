@@ -6,11 +6,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboofazlnajmaddini&label=Profile%20views&color=0e75b6&style=flat" alt="aboofazlnajmaddini" /> </p>
 
-- 🌱 I’m currently learning **2D Game dev with Unity**
+- 🌱 I’m currently learning and working about **DevOps**
+
+- 👨‍💻 I’m currently working at .[https://www.faraabeen.ir](faraabeen.ir)
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/AboofazlNajmaddini](https://github.com/AboofazlNajmaddini)
 
-- 💬 Ask me about **Java and Python**
+- 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **Aboofazl.najmaddini1@gmail.com**
 
