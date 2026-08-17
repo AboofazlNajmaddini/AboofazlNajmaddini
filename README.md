@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Aboofazl</h1>
 <h3 align="center">Just a Software Engineer Student from IRAN</h3>
 
-<img align="right" alt="MeRlIn" width= "400" src = "https://blog.sciencemuseum.org.uk/wp-content/uploads/2017/10/Pacman.gif">
+<img align="right" alt="Pacman" width="400" src="https://media.giphy.com/media/5xtDarmwsuR9sDRObyU/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboofazlnajmaddini&label=Profile%20views&color=0e75b6&style=flat" alt="aboofazlnajmaddini" /> </p>
 
