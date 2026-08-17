@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning and working about **DevOps**
 
-- 👨‍💻 I’m currently working at .[https://www.faraabeen.ir](faraabeen.ir)
+- 👨‍💻 I’m currently working at [faraabeen.ir](https://www.faraabeen.ir)
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/AboofazlNajmaddini](https://github.com/AboofazlNajmaddini)
