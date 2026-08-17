@@ -1,23 +1,23 @@
 ![logo](https://it.gwu.edu/sites/g/files/zaxdzs5486/files/2023-10/github_logo.png)
-<h1 align="center">Hi 👋, I'm Aboofazl</h1>
+<h1 align="center">Hi , I'm Aboofazl</h1>
 <h3 align="center">Just a Software Engineer Student from IRAN</h3>
 
 <img align="right" alt="MeRlIn" width= "400" src = "https://blog.sciencemuseum.org.uk/wp-content/uploads/2017/10/Pacman.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboofazlnajmaddini&label=Profile%20views&color=0e75b6&style=flat" alt="aboofazlnajmaddini" /> </p>
 
-- 🌱 I’m currently learning and working about **DevOps**
+-  I’m currently learning and working about **DevOps**
 
-- 👨‍💻 I’m currently working at [faraabeen.ir](https://www.faraabeen.ir)
+-  I’m currently working at [faraabeen.ir](https://www.faraabeen.ir)
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/AboofazlNajmaddini](https://github.com/AboofazlNajmaddini)
+-  All of my projects are available at [https://github.com/AboofazlNajmaddini](https://github.com/AboofazlNajmaddini)
 
-- 💬 Ask me about **DevOps**
+-  Ask me about **DevOps**
 
-- 📫 How to reach me **Aboofazl.najmaddini1@gmail.com**
+-  How to reach me **Aboofazl.najmaddini1@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aboofazl-najmaddini-647457364](https://www.linkedin.com/in/aboofazl-najmaddini-647457364)
+-  Know about my experiences [https://www.linkedin.com/in/aboofazl-najmaddini-647457364](https://www.linkedin.com/in/aboofazl-najmaddini-647457364)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
