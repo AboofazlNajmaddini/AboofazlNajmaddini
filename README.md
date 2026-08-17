@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Aboofazl</h1>
 <h3 align="center">Just a Software Engineer Student from IRAN</h3>
 
-<img align="right" alt="Pacman" width="400" src="https://media.giphy.com/media/5xtDarmwsuR9sDRObyU/giphy.gif">
+<img align="right" alt="uptime" width="400" src="[https://media.giphy.com/media/5xtDarmwsuR9sDRObyU/giphy.gif](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cDJvdW56d3o4bWdham5kY2x0MmczNThxemJscmF6dHNya2N1YTdzNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/D24tVN39jEf7Z62u0I/giphy.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aboofazlnajmaddini&label=Profile%20views&color=0e75b6&style=flat" alt="aboofazlnajmaddini" /> </p>
 
